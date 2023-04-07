@@ -9,5 +9,5 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 
 
-The URL of the deployed application : https://slfdspln.github.io/Chia-Java/
+The URL of the deployed application : https://slfdspln.github.io/password-generator-java/
 
