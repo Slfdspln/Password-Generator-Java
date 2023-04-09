@@ -1,4 +1,4 @@
-# Password Generator
+# <h1 align="center">Password Generator</h1>
 
 I created an application that generates a random password based on user-selected criteria.
 
