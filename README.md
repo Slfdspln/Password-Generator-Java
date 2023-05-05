@@ -5,9 +5,7 @@ Week-4 Challenge
 
 
 ##  Description 
-I created an application that generates a random password based on user-selected criteria.
-This app will run in the browser and feature dynamically updated HTML and CSS powered by my JavaScript code. 
- It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+I have developed a web application that facilitates the generation of a highly secure and robust password, using user-defined criteria. The application is designed to function within a browser environment and utilizes dynamic HTML and CSS powered by my proficient JavaScript code. In addition to its functional capabilities, the application incorporates a sleek and refined user interface, which provides an effortless and intuitive user experience. The interface is also designed to be responsive, enabling seamless adaptability to a wide range of screen sizes, thereby enhancing its accessibility and usability across various devices. Overall, the application provides a highly effective solution for password generation with a focus on optimal user experience and functionality.
  
  ## Live URL
  
