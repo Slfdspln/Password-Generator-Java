@@ -13,7 +13,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 ## Screenshots 
 
 ![png](https://user-images.githubusercontent.com/121422214/226147433-8c36b61a-13e2-4f24-a8cf-38fa9999f2f3.jpeg)
-logo generation
+
 
 ## Technologies Used
 
