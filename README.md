@@ -21,7 +21,7 @@ This project utilizes HTML, CSS, & JavaScript
 
 ## Installation
 
-1.Clone the repo: git clone https://github.com/rmessett15/Password-Generator.git
+1.Clone the repo: git clone git@github.com:Slfdspln/password-generator-java.git
 
 2.Open in VS Code. If you do not have VS code you must install it.
 
