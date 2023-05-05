@@ -1,4 +1,4 @@
-## <h1 align="center">password-generator-java</h1>
+## <h1 align="center">Password-Generator-Java</h1>
 Week-4 Challenge
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
