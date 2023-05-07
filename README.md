@@ -48,7 +48,7 @@ I am receptive to collaborative efforts. Should you decide to engage in such end
 
 Need more information? You can contact me through my LinkedIn or Email. Links provided below.
 
-Click for LinkedIn -> [LinkedIn](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
+Click for LinkedIn -> [LinkedIn](https://www.linkedin.com/in/cristal-rivera-662b58248/)
 
-Click to Email -> [Email](https://www.google.com)
+Click to Email -> [Email](mailto:inaliaashanti@gmail.com?subject=[Email]%20Source%20Han%20Sans)
 
