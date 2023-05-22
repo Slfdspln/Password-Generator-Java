@@ -9,7 +9,7 @@ I have developed a web application that facilitates the generation of a highly s
  
  ## Live URL
  
- https://slfdspln.github.io/password-generator-java/
+https://slfdspln.github.io/Password-Generator-Java/
 
 ## Screenshots 
 
